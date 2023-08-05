@@ -4,9 +4,6 @@
 
 ### Code topics: Data Analysis, Data Science, Graphics and Visualization
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyMarkowitz-NOAA)
-![Github stats](https://github-readme-stats.vercel.app/api?username=SarahThomaz&show_icons=true)
-
 <!--
 
 More notes on how to do this, here: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
