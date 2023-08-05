@@ -1,7 +1,17 @@
-### Hi there 👋
+# Sarah Thomaz
+
+### COFC
+
+### Code topics: Data Analysis, Data Science, Graphics and Visualization
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyMarkowitz-NOAA)
+![Github stats](https://github-readme-stats.vercel.app/api?username=EmilyMarkowitz-NOAA&show_icons=true)
 
 <!--
-**SarahThomaz/SarahThomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+More notes on how to do this, here: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
+
+**EmilyMarkowitz-NOAA/EmilyMarkowitz-NOAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## COFC README
+This repository is a collection of work product. All code is provided on an 'as is' basis and the user assumes responsibility for its use. 
+
+
